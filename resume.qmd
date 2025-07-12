@@ -2,7 +2,7 @@
 layout: cv
 title: Andrew Flinders
 ---
-# Andrew Flinders
+# Resume
 Accounting Student at BYUI 
 
 <div id="webaddress">
