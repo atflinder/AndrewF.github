@@ -1,87 +1,83 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andrew Flinders
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Resume
+Accounting Student at BYUI 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="atflind@gmail.com">atflind@gmail.com</a>
+| <a href="https://www.linkedin.com/in/andrew-flinders/">My Linked-In Page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Accounting at Brigham Young Universtiy Idaho
 
-### Specialized in
+### Interests
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Games of all types, country dancing, gospel studies, and history
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2016 - 2020`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### __Etiwanda High School__
 
-- Sizar
+`2020 - 2022`
 
-`1667 - death`
-__Trinity College, Cambridge__
+### __George Mason University__
 
-- Fellow
+- Student
 
+`2025 - current`
+
+### __Brigham Young University Idaho__
+
+- Studying Accounting
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2016`
 
-Associate, *French Academy of Science*, Paris, France
-
+  -  Eagle Scout
 
 
-## Publications
+## Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`January 2023 - December 2024`
+The Church of Jesus Christ of Latter-day Saints - 
+Full-Time Volunteer Representative;              
+Salt Lake City, UT 
+  -  Learned to speak Spanish professionally within 2 years of starting 
+  -  Managed 84 hour work weeks and traveled over 30 miles a day
 
-### Journals
+`August 2022 - December 2022`  
+Harmon's Grocery Stores - E-shop associate;                                                    
+Salt Lake City, UT              
+  -   Completed 10 plus online orders for customers by a specific date and time while working in teams each day
+  -   Communicated with 20 plus customers a day in a way to guarantee happiness; providedcustomer with choices the customer did not know about
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`August 2021 - May 2022`  
+Giant Foods - Cashier and Customer Service Representative;                                      
+Fairfax, VA
+  -  Operated a cash register and efficiently communicated with 20 plus customers to satisfycustomers needs
+  -  Trained more than 2 employees on how to operate a cash register and how to treat customers,how to start conversations, and how to de-escalate angry or stressed out customers.
+  -  Operated Western Union helping 5 plus people every day to transfer money to other countries
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`August 2018 - August 2020`  
+Flinders Insurance Agency Inc/ DBA DePalma Insurance - Clerk;                                  
+Burbank, CA
+  -  Performed clerical work allowing paperwork to be uploaded digitally for easier access
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## Skills
+  -  Leadership oriented and service driven
+  -  Technical: Microsoft Office Suite and other software
+  -  Forklift Certified
+  -  Familiar with Python, Machine Learning, and MySql
 
 
 <!-- ### Footer
