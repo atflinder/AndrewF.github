@@ -1,3 +1,4 @@
+
 ---
 layout: cv
 title: Andrew Flinders
@@ -79,7 +80,3 @@ Burbank, CA
   -  Forklift Certified
   -  Familiar with Python, Machine Learning, and MySql
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
